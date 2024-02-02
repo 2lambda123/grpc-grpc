@@ -5,14 +5,14 @@ protobuf>=3.5.0.post1, < 4.0dev
 wheel==0.38.1
 google-auth==1.24.0
 oauth2client==4.1.0
-requests==2.25.1
+requests==2.31.0
 urllib3==1.26.18
 chardet==3.0.4
 certifi==2023.7.22
 idna==2.7
-gevent==22.08.0
+gevent==23.9.0
 zope.event==4.5.0
-setuptools==44.1.1
+setuptools==65.5.1
 xds-protos==0.0.11
 absl-py==1.4.0
 google-cloud-trace==1.11.3
